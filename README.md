@@ -1,5 +1,5 @@
 
-# Aeotrem
+# Aetrom
 
 ## Problem statement
 
