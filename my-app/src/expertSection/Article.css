@@ -1,0 +1,49 @@
+.MainBox {
+    border: rgba(245,237,245,1);
+    width: 30%;
+    border-radius: 11px;
+    height: 185px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+    box-shadow: -4px 10px 5px 0px rgba(245,237,245,1);
+}
+
+.MainBox2 {
+    border: rgba(245,237,245,1);
+    width: 800px;
+    border-radius: 11px;
+    height: 185px;
+    margin-left: 200px;
+    align-items: center;
+    flex-wrap: nowrap;
+    box-shadow: -4px 10px 5px 0px rgba(245,237,245,1);
+}
+
+.MainBox3 {
+    border: rgba(245,237,245,1);
+    width: 800px;
+    border-radius: 11px;
+    height: 185px;
+    margin-left: 20px;
+    align-items: center;
+    flex-wrap: nowrap;
+    box-shadow: -4px 10px 5px 0px rgba(245,237,245,1);
+}
+
+.mainBox-Child {
+    text-align: center;
+}
+
+.mainBox-Child > h1 {
+    color: white;
+}
+
+.mainBox-Child2 {
+    text-align: center;
+}
+
+.mainBox-Child2 > h1 {
+    color: rgb(141, 27, 27);
+}

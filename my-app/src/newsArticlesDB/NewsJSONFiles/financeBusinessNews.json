@@ -1,0 +1,251 @@
+{
+  "_type": "News",
+  "webSearchUrl": "https://www.bing.com/news/search?q=business+news&form=TNSA02",
+  "value": [
+    {
+      "name": "U.S. Stock Futures Edge Higher as Tech Stocks Rally ",
+      "url": "https://www.wsj.com/articles/global-stock-markets-dow-update-7-31-2020-11596186556",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.FA0100BD0E593806B14EC08C08551AD6&pid=News",
+          "width": 1280,
+          "height": 640
+        },
+        "isLicensed": false
+      },
+      "description": "Shares of Amazon.com, Facebook and Apple gained in offhours trading after the companies’ earnings highlighted the resilience of their operations during the coronavirus pandemic.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Wall Street Journal",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_fb65cf047b726a4d148957726730accd"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T09:18:00.0000000Z"
+    },
+    {
+      "name": "Dow Futures Gain As Apple Leads Big Tech Earnings Blowout; Amazon and Facebook to Power Nasdaq Near Record Highs ",
+      "url": "https://www.thestreet.com/investing/dow-futures-gain-as-apple-leads-big-tech-earnings-blowout",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.35400CB135D9E0608201BA6CED2B6A2B&pid=News",
+          "width": 1200,
+          "height": 675
+        },
+        "isLicensed": false
+      },
+      "description": "The S&P 500, which has gained just 0.48% for the year, significantly lags the Nasdaq's 22.7% surge, which is set to rise even higher following blowout earnings from Apple, Amazon, Facebook and Google.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "TheStreet.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_56eb34237378c28805a3d07d6d6e5189"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T13:12:00.0000000Z"
+    },
+    {
+      "name": "Here's What We Make Of Eastman Chemical's (NYSE:EMN) Returns On Capital ",
+      "url": "https://finance.yahoo.com/news/heres-eastman-chemicals-nyse-emn-152138771.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.034A78910CDEEB3BAB0880D43CBDFDDC&pid=News",
+          "width": 333,
+          "height": 316
+        },
+        "isLicensed": false
+      },
+      "description": "More often than not, we'll see a declining return on capital employed (ROCE) and a declining amount of capital employed. Ultimately this means that the company is earning less per dollar invested and",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T15:29:00.0000000Z"
+    },
+    {
+      "name": "United Airlines to Resume Service on Over 25 International Routes in September ",
+      "url": "https://money.usnews.com/investing/news/articles/2020-07-31/united-airlines-to-resume-service-on-over-25-international-routes-in-september",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.2E3F2DD641CD89CA8EC9D443C716B82D&pid=News",
+          "width": 800,
+          "height": 533
+        },
+        "isLicensed": false
+      },
+      "description": "The company's flight schedule represents a 4% rise in capacity compared to August, United said. (Reporting by Ankit Ajmera in Bengaluru; Editing by Shinjini Ganguli) Copyright 2020 Thomson Reuters.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "U.S. News & World Report",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_9f4e7717a371a0a5e2bbf48b4ca76ed5"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T15:17:00.0000000Z"
+    },
+    {
+      "name": "Ford will defer some quarterly payments on U.S. Energy Department loan ",
+      "url": "https://www.reuters.com/article/us-ford-motor-loan-idUSKCN24W24W",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.6B41A497D1A483FEA98706B029B784B4&pid=News",
+          "width": 1200,
+          "height": 829
+        },
+        "isLicensed": false
+      },
+      "description": "Ford Motor Co said on Friday it had won approval to defer some quarterly payments due on its U.S. Energy Department retooling loan, but added it will repay the loan on time by June 2022.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Reuters",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_62e71bb461e92ae25d37bed673fc53b9"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T14:25:00.0000000Z"
+    },
+    {
+      "name": "ExxonMobil Records Second Consecutive Quarterly Loss Amid Q2 Oil Price Plunge, Demand Slump ",
+      "url": "https://www.thestreet.com/investing/exxonmobil-records-second-consecutive-quarterly-loss",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.574DBB572FB6D31CAE10957430DD13F8&pid=News",
+          "width": 1200,
+          "height": 800
+        },
+        "isLicensed": false
+      },
+      "description": "ExxonMobil followed its U.S. rival, Chevron, in posting a wider-than-expected second quarter loss amid slumping crude demand from the global coronavirus pandemic.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "TheStreet.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_56eb34237378c28805a3d07d6d6e5189"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T11:50:00.0000000Z"
+    },
+    {
+      "name": "Caterpillar Cost Cuts Ease Pandemic Blow, With Future Uncertain ",
+      "url": "https://finance.yahoo.com/news/caterpillar-reduces-costs-balance-global-111654988.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.405CE2E8EC06C418BE7399CDD6B468CC&pid=News",
+          "width": 1200,
+          "height": 675
+        },
+        "isLicensed": false
+      },
+      "description": "(Bloomberg) -- Caterpillar Inc.’s cost cuts helped the heavy-equipment giant make up for slowing sales in the second quarter, but concern of second waves of the coronavirus weighed on the prospects",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T15:00:00.0000000Z"
+    },
+    {
+      "name": "Host Hotels & Resorts, Inc. 2020 Q2 - Results - Earnings Call Presentation ",
+      "url": "https://seekingalpha.com/article/4362856-host-hotels-resorts-inc-2020-q2-results-earnings-call-presentation",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.AF8DBFB21C7EA2E3B3932AC869BDF1B3&pid=News",
+          "width": 1280,
+          "height": 720
+        },
+        "isLicensed": false
+      },
+      "description": "The following slide deck was published by Host Hotels & Resorts, Inc. in conjunction with their 2020 Q2 earnings call..",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Seeking Alpha"
+        }
+      ],
+      "datePublished": "2020-07-31T14:48:00.0000000Z"
+    },
+    {
+      "name": "How The CEO Of Happy Family Organics, A $240 Million Baby Food Company, Takes A Values-First Approach To Leading In 2020 ",
+      "url": "https://www.forbes.com/sites/shaynaharris/2020/07/31/how-the-ceo-of-happy-family-organicsa-240-million-baby-food-companytakes-a-values-first-approach-to-leading-in-2020/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.21845C2C02F4BE810B0752A2B255AA84&pid=News",
+          "width": 1200,
+          "height": 800
+        },
+        "isLicensed": false
+      },
+      "description": "From the onset of the coronavirus pandemic to the upswell of racial justice activism, Anne Laraway shares that focus and flexibility is key.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Forbes",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_f798ef715781699feff0f3ea5f101626"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T15:07:00.0000000Z"
+    },
+    {
+      "name": "Wages and benefits grow at slowest pace in 3 years ",
+      "url": "https://apnews.com/3dfeb5dfae0dc63cf40cc36241cdfe12",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.1C683266495AAE83E87D34F16B9638B1&pid=News",
+          "width": 3000,
+          "height": 1953
+        },
+        "isLicensed": false
+      },
+      "description": "Wages and benefits for U.S. workers rose at the slowest pace in three years in the April-June quarter, a sign that businesses are holding back on pay as well as cutting jobs",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Associated Press",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AMMS_6c39d1938749f17b7db3d338632af3cb"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T12:48:00.0000000Z"
+    }
+  ]
+}

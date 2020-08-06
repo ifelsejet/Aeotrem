@@ -1,0 +1,256 @@
+{
+  "_type": "News",
+  "webSearchUrl": "https://www.bing.com/news/search?q=world+news&form=TNSA02",
+  "value": [
+    {
+      "name": "Japan Edges Toward Military Pre-emptive Strike Option ",
+      "url": "https://www.wsj.com/articles/japan-edges-toward-military-pre-emptive-strike-option-11596195100",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.5E4A24411CFB1F5D0129DA9D66854134&pid=News",
+          "width": 1280,
+          "height": 640
+        },
+        "isLicensed": false
+      },
+      "description": "Ruling-party lawmakers are pushing for Japan’s military to have the ability to strike foreign missile-launch sites to improve deterrence against potential attacks from North Korea and China.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Wall Street Journal",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_fb65cf047b726a4d148957726730accd"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T11:39:00.0000000Z"
+    },
+    {
+      "name": "Spain sets temperature records in heatwave, UK swelters ",
+      "url": "https://apnews.com/203e44a4d1a59b7bd389359f05062e8e",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.827DBF7A16B46AB0DAD986DFF4710F3E&pid=News",
+          "width": 3000,
+          "height": 1999
+        },
+        "isLicensed": false
+      },
+      "description": "As parts of Spain set record temperatures during a heatwave, U.K. residents were sweltering Friday on what was expected to be the country's hottest day this year. San",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Associated Press",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AMMS_6c39d1938749f17b7db3d338632af3cb"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T14:58:00.0000000Z"
+    },
+    {
+      "name": "Huge crowds rally for Belarus opposition leader in run-up to presidential election ",
+      "url": "https://www.theguardian.com/world/2020/jul/31/huge-crowds-rally-for-belarus-opposition-leader-in-run-up-to-presidential-election",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.51A83A81398377CB122098F9C2FE9146&pid=News",
+          "width": 1200,
+          "height": 630
+        },
+        "isLicensed": false
+      },
+      "description": "Opposition candidate, Svetlana Tikhanovskaya, backed by leaders disqualified from poll",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Guardian",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_2a11e962b50de53410a02557d2ad4c13"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T11:14:00.0000000Z"
+    },
+    {
+      "name": "Landmark ruling sees Ugandan poacher jailed for killing Rafiki the gorilla ",
+      "url": "https://www.theguardian.com/global-development/2020/jul/31/landmark-ruling-sees-ugandan-poacher-jailed-for-killing-rafiki-the-gorilla",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.CC3F1A87DC0B4AB4F9A6065AD1DF98B1&pid=News",
+          "width": 445,
+          "height": 267
+        },
+        "isLicensed": false
+      },
+      "description": "Six-year sentence following death of one of country’s best-known silverback mountain gorillas is first of its kind",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Guardian",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_2a11e962b50de53410a02557d2ad4c13"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T10:27:00.0000000Z"
+    },
+    {
+      "name": "Empty streets in Zimbabwe as security forces thwart protest ",
+      "url": "https://news.yahoo.com/empty-streets-zimbabwe-security-forces-083959171.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.DC403F70AC947EF29179C4750AA3EC97&pid=News",
+          "width": 1279,
+          "height": 853
+        },
+        "isLicensed": false
+      },
+      "description": "Streets were empty in Zimbabwe’s cities and towns on Friday as the military and police kept a strong presence to thwart an anti-government protest and enforce a coronavirus lockdown. Tensions are",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T08:43:00.0000000Z"
+    },
+    {
+      "name": "The 'real' threat to Russia’s former doping mastermind ",
+      "url": "https://www.bbc.com/news/stories-53596997",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.0363C34081C72EE98092CC0D7A404DB2&pid=News",
+          "width": 320,
+          "height": 180
+        },
+        "isLicensed": false
+      },
+      "description": "The ex-mastermind of Russian sports doping, Grigory Rodchenkov, now only appears in disguise. Matt Majendie explains why.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "BBC",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_13e55212707f2e343987e8af4351bac7"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T09:58:00.0000000Z"
+    },
+    {
+      "name": "Second wave? UK tightens lockdown in northern England ",
+      "url": "https://www.reuters.com/article/us-health-coronavirus-britain-idUSKCN24W0R5",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.D449DD45CF73D1FD71A584E5101BF269&pid=News",
+          "width": 1200,
+          "height": 802
+        },
+        "isLicensed": false
+      },
+      "description": "Britain imposed a tougher lockdown in swathes of northern England after a rise in the rate of novel coronavirus transmission, raising concerns that a second wave of the deadly virus could sow yet",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Reuters",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_62e71bb461e92ae25d37bed673fc53b9"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T08:04:00.0000000Z"
+    },
+    {
+      "name": "Iran to allow Australian ambassador to meet jailed academic Kylie Moore-Gilbert ",
+      "url": "https://www.cnn.com/2020/07/31/middleeast/kylie-moore-gilbert-australian-ambassador-intl-hnk/index.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.464B3CF9274CF40C3A354678D9A540FD&pid=News",
+          "width": 1100,
+          "height": 619
+        },
+        "isLicensed": false
+      },
+      "description": "Iranian authorities will allow an Australian ambassador to meet Kylie Moore-Gilbert, a British-Australian university lecturer who was jailed for spying, according to a news agency affiliated with the",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "CNN",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_34c0b98797bce395c518158cf055747c"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T07:28:00.0000000Z"
+    },
+    {
+      "name": "Two pilots killed when air tankers collide ",
+      "url": "https://news.yahoo.com/two-air-tankers-collide-mid-021522601.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.E18F5EE3494D29FF347FEB4927A1F2BB&pid=News",
+          "width": 800,
+          "height": 400
+        },
+        "isLicensed": false
+      },
+      "description": "Two pilots were killed Thursday when their air tankers collided in midair as they were helping to fight a large wildfire in southern Nevada, federal officials said. The U.S. Bureau of Land Management",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T06:41:00.0000000Z"
+    },
+    {
+      "name": "We'll discuss how German forces can help regions to be hit by U.S. troop withdrawal: minister ",
+      "url": "https://www.msn.com/en-us/news/world/well-discuss-how-german-forces-can-help-regions-to-be-hit-by-us-troop-withdrawal-minister/ar-BB17oU15",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.CAB3A2CA74B3919F91D0FF6B31BAA699&pid=News",
+          "width": 799,
+          "height": 533
+        },
+        "isLicensed": false
+      },
+      "description": "The German defence minister said on Friday that she would hold talks after the summer with the premiers of states affected by U.S. plans to withdraw about 12,000 troops from Germany to see how the",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Reuters on MSN.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_62e71bb461e92ae25d37bed673fc53b9"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T06:43:00.0000000Z"
+    }
+  ]
+}

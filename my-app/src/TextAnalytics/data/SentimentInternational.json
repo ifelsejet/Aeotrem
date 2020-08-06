@@ -1,0 +1,601 @@
+{
+  "SentimentAnalysis": [
+    {
+      "id": 16,
+      "sentiment": "negative",
+      "votingResults": {
+        "yesVotes": 40,
+        "noVotes": 52
+      },
+      "confidenceScores": {
+        "positive": 0.02,
+        "neutral": 0.12,
+        "negative": 0.86
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 0,
+          "length": 247,
+          "text": "CHENGDU, China (AP) — In the more than 40 years since China and the U.S. established formal diplomatic relations, accusations have been traded, tensions have risen and fallen and the two sides have come dangerously close to outright confrontation."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.07,
+            "negative": 0.92
+          },
+          "offset": 248,
+          "length": 252,
+          "text": "Yet the forced closure of the Chinese Consulate in Houston and China’s order in response to shutter the U.S. Consulate in the Chinese city of Chengdu mark a new low point in ties between the world’s largest economies that can’t easily be smoothed over."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.05,
+            "neutral": 0.29,
+            "negative": 0.66
+          },
+          "offset": 501,
+          "length": 401,
+          "text": "Mistrust and rancor surrounding disputes over alleged technology theft, national security, human rights, Hong Kong, Taiwan and the South China Sea are now the main drivers in a relationship that had long sought to compartmentalize such issues to prevent them from impeding trade ties and cooperation in managing issues such as North Korea’s nuclear program and conflicts in the Middle East and Africa."
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": 17,
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 39,
+        "noVotes": 35
+      },
+      "confidenceScores": {
+        "positive": 0.19,
+        "neutral": 0.11,
+        "negative": 0.7
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.22,
+            "negative": 0.77
+          },
+          "offset": 0,
+          "length": 122,
+          "text": "In Austria, the lakeside resort town of St. Wolfgang shortened bar opening hours after an outbreak was detected on Friday."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.79,
+            "neutral": 0.16,
+            "negative": 0.05
+          },
+          "offset": 123,
+          "length": 96,
+          "text": "By Monday, 53 people had tested positive, including many people working in the tourism industry."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.24,
+            "negative": 0.75
+          },
+          "offset": 220,
+          "length": 219,
+          "text": "In Germany, officials decided last week to set up testing stations at airports to encourage people arriving from a long list of countries deemed high-risk — including popular destinations such as Turkey — to get tested."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.87,
+            "neutral": 0.11,
+            "negative": 0.02
+          },
+          "offset": 440,
+          "length": 90,
+          "text": "They will also allow people to get tested elsewhere for free within three days of arrival."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 531,
+          "length": 94,
+          "text": "Bavaria’s governor, Markus Soeder, said he is worried about travelers returning from vacation."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 626,
+          "length": 184,
+          "text": "Referring to the Austrian ski resort that was an early European hot spot in March, he said: My worry is not that there will be one big Ischgl, but that there will be many mini-Ischgls."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 811,
+          "length": 239,
+          "text": "Later Monday, Health Minister Jens Spahn said he had decided to make obligatory the testing of returning vacationers from risky areas, and that the new regulations should come into effect within the next week, the dpa news agency reported."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.11,
+            "negative": 0.88
+          },
+          "offset": 1051,
+          "length": 189,
+          "text": "We need to prevent travelers from infecting others without it being detected and starting new infection chains, he said New infections in Germany have been creeping higher from a low level."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.99,
+            "negative": 0.01
+          },
+          "offset": 1241,
+          "length": 110,
+          "text": "The tourism industry employs 2.6 million people in Spain and generates 12% of the country’s economic activity."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.09,
+            "negative": 0.91
+          },
+          "offset": 1352,
+          "length": 185,
+          "text": "Juan Molas, the head of a national association of tourism companies, Mesa del Turismo, said Spain’s tourism sector has on average lost 5 billion euros ($5.8 billion) a week since March."
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": 18,
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 47,
+        "noVotes": 56
+      },
+      "confidenceScores": {
+        "positive": 0.11,
+        "neutral": 0.08,
+        "negative": 0.81
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.42,
+            "neutral": 0.07,
+            "negative": 0.51
+          },
+          "offset": 0,
+          "length": 276,
+          "text": "Al-Diwani and Athir Assem, 26, are among millions of young people in the Middle East whose pursuit of jobs or plans for higher education and marriage have been upended by the pandemic, plunging them into the kind of deep uncertainty and despair they had hoped to leave behind."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 277,
+          "length": 226,
+          "text": "Such turmoil is universal in the wake of the pandemic, but the despair is particularly pronounced in the Middle East, where wave after wave of war, displacement and disease has left this generation feeling bitter and hopeless."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 504,
+          "length": 244,
+          "text": "While in the West, many who have become unemployed believe they will eventually get their jobs back or somehow recover from the recession, the pandemic in some Arab countries was the final blow to economies now on the cusp of complete collapse."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 749,
+          "length": 149,
+          "text": "The strains are also made harder because, in the Arab world, lives for young adults tend to be more scripted than for their counterparts in the West."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.58,
+            "neutral": 0.31,
+            "negative": 0.11
+          },
+          "offset": 899,
+          "length": 117,
+          "text": "Cultural expectations put more pressure on males to earn enough so they can move out, marry and provide for families."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.24,
+            "neutral": 0.04,
+            "negative": 0.72
+          },
+          "offset": 1017,
+          "length": 295,
+          "text": "For many young people, seeing economies crumble the way that they are and seeing their prospects vanish before their eyes ... it’s undoubtedly going to be taking a huge toll on mental health and well-being,” said Tariq Haq, a Beirut-based senior employment specialist with the U.N. labor agency."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.37,
+            "negative": 0.62
+          },
+          "offset": 1313,
+          "length": 196,
+          "text": "Even before the pandemic, in 2019, youth unemployment in the Arab region was estimated at 26.4%, compared to a global rate of 13.6%, according to estimates by the International Labor Organization."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1510,
+          "length": 213,
+          "text": "While it is too early for post-COVID-19 estimates, early data indicates that over 70% of young people in the region are in informal employment, 40% of whom are working in those sectors hardest hit by the pandemic."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 1724,
+          "length": 182,
+          "text": "Across Iraq, Lebanon and Syria, an unprecedented economic meltdown is underway, threatening to push the region at the heart of the Arab world into extreme poverty and renewed unrest."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.05,
+            "negative": 0.95
+          },
+          "offset": 1907,
+          "length": 77,
+          "text": "Lebanon and Syria’s currencies have crashed and hyperinflation is setting in."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 1985,
+          "length": 120,
+          "text": "In Iraq, where more than 60% of the population is under 25, a dramatic collapse in oil revenues has depleted the budget."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.73,
+            "negative": 0.24
+          },
+          "offset": 2106,
+          "length": 116,
+          "text": "About half of university graduates cannot find employment opportunities in the public or private sectors since 2018."
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": 19,
+      "sentiment": "negative",
+      "votingResults": {
+        "yesVotes": 39,
+        "noVotes": 43
+      },
+      "confidenceScores": {
+        "positive": 0.0,
+        "neutral": 0.09,
+        "negative": 0.91
+      },
+      "sentences": [
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.51,
+            "negative": 0.47
+          },
+          "offset": 0,
+          "length": 111,
+          "text": "The case is due to end Tuesday, but judge Andrew Nicol is not expected to deliver his ruling for several weeks."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 112,
+          "length": 112,
+          "text": "There is no doubt that Mr. Depp regularly and systematically abused his wife, Wass said in her closing argument."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.91,
+            "negative": 0.06
+          },
+          "offset": 225,
+          "length": 67,
+          "text": "The characterization that he is a wife beater is entirely truthful."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 293,
+          "length": 112,
+          "text": "She said Depp was “a hopeless addict who repeatedly lost his self-control and all ability to restrain his anger."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 406,
+          "length": 232,
+          "text": "Permeating all of the evidence in this case is the character of Mr. Depp himself -- his well-documented evidence of violence and destruction over his adult life which have occurred when he was under the influence of drink and drugs."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.96,
+            "negative": 0.02
+          },
+          "offset": 639,
+          "length": 119,
+          "text": "Depp, 57, and Heard, 34, met on the set of the 2011 comedy “The Rum Diary” and married in Los Angeles in February 2015."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.02,
+            "negative": 0.98
+          },
+          "offset": 759,
+          "length": 82,
+          "text": "Heard filed for divorce the following year, and the divorce was finalized in 2017."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.21,
+            "negative": 0.78
+          },
+          "offset": 842,
+          "length": 156,
+          "text": "The former spouses have both been in court throughout three weeks of testimony at the grand neo-Gothic court building, though Depp did not attend on Monday."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.47,
+            "negative": 0.52
+          },
+          "offset": 999,
+          "length": 192,
+          "text": "Lawyers, journalists and members of the public, spread across several video-linked courtrooms to allow for social distancing, have heard lurid details of the couple’s tempestuous relationship."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 1192,
+          "length": 181,
+          "text": "The evidence has revealed prodigious drinking and drug consumption, furious arguments, hurled objects and a deposit of excrement left in a bed — whether by dog or human is disputed."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1374,
+          "length": 390,
+          "text": "The Sun’s defense relies on 14 allegations made by Heard of Depp’s violence between 2013 and 2016, in settings including his private island in the Bahamas, a rented house in Australia during filming of a “Pirates of the Caribbean” movie — where Depp’s finger was severed in contested circumstances — and the couple’s downtown Los Angeles penthouse, which was trashed during one altercation."
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": 20,
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 49,
+        "noVotes": 36
+      },
+      "confidenceScores": {
+        "positive": 0.08,
+        "neutral": 0.0,
+        "negative": 0.92
+      },
+      "sentences": [
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.76,
+            "neutral": 0.0,
+            "negative": 0.24
+          },
+          "offset": 0,
+          "length": 195,
+          "text": "Duterte acknowledged that his government’s handling of the coronavirus pandemic was “far from perfect” and but gave assurances that “we will not stop until we get things right and better for you."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.03,
+            "negative": 0.97
+          },
+          "offset": 196,
+          "length": 155,
+          "text": "He sought congressional passage of a bill that will again grant him emergency powers to realign government budgets for use in the continuing health crisis."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 352,
+          "length": 241,
+          "text": "There have been widespread complaints about the government’s response to the outbreak, including long delays in the delivery of cash and food aid to millions of poor families and the inability to reach a targeted number of daily virus tests."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 594,
+          "length": 135,
+          "text": "The Philippines remains a Southeast Asian hot spot for the virus, with more than 80,000 confirmed cases, including nearly 2,000 deaths."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 730,
+          "length": 120,
+          "text": "Duterte said people were worried not only about the virus but also about safety and public mobility during the pandemic."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 851,
+          "length": 106,
+          "text": "He said crimes may increase but pledged that he wouldn’t permit them to spiral out of control in any city."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.02,
+            "negative": 0.98
+          },
+          "offset": 958,
+          "length": 292,
+          "text": "Addressing would-be criminals, Duterte warned, “you know what will happen to you.” You commit holdups, you commit rape, you commit all sorts of things and you harm the public, then I’ll be your enemy, said Duterte, who built a political name with his extra-tough approach to crime as a mayor."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.13,
+            "neutral": 0.75,
+            "negative": 0.12
+          },
+          "offset": 1251,
+          "length": 99,
+          "text": "If you return to the old ways, there will be piles of bodies again and I will surely hunt you down."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1351,
+          "length": 155,
+          "text": "He urged lawmakers to swiftly pass legislation reimposing the death penalty for illegal drugs, saying the drug menace has destroyed families and the youth."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1507,
+          "length": 193,
+          "text": "Duterte’s bloody anti-drug crackdown, which he launched after taking office in mid-2016, has left thousands of mostly poor suspects dead and alarmed human rights groups and Western governments."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1701,
+          "length": 126,
+          "text": "He and law enforcers have denied committing extrajudicial killings, although he has openly threatened drug dealers with death."
+        }
+      ],
+      "warnings": []
+    }
+  ]
+}

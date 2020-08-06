@@ -1,0 +1,821 @@
+{
+  "SentimentAnalysis": [
+    {
+      "id": 11,
+      "sentiment": "negative",
+      "votingResults": {
+        "yesVotes": 49,
+        "noVotes": 52
+      },
+      "confidenceScores": {
+        "positive": 0.01,
+        "neutral": 0.03,
+        "negative": 0.96
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.03,
+            "negative": 0.97
+          },
+          "offset": 0,
+          "length": 358,
+          "text": "Washington (CNN)Senate Republicans on Monday formally unveiled their roughly $1 trillion stimulus proposal, which includes a $400 cut in enhanced unemployment benefits, and will serve as an opening bid for bipartisan negotiations with Democrats while Congress scrambles to respond to the economic and public health crisis sparked by the coronavirus pandemic."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.09,
+            "neutral": 0.75,
+            "negative": 0.16
+          },
+          "offset": 359,
+          "length": 246,
+          "text": "Senate Majority Leader Mitch McConnell said In comments on the Senate floor, The American people need more help, and that the GOP proposal will be called the HEALS Act, an acronym for Health, Economic Assistance, Liability Protection and Schools."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.03,
+            "negative": 0.95
+          },
+          "offset": 606,
+          "length": 584,
+          "text": "The bill will include a variety of component parts, which GOP senators and committee chairman rolled out in a series of floor speeches Monday evening, including liability protections, a second round of direct payments to Americans and a second round of Paycheck Protection Program loans intended to help keep the hardest-hit small businesses afloat.Perhaps the most immediately controversial aspect of the Senate Republican plan is that it includes a cut of $400 to the enhanced unemployment benefit for out of work Americans, a provision that generated swift backlash from Democrats."
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": 12,
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 67,
+        "noVotes": 49
+      },
+      "confidenceScores": {
+        "positive": 0.36,
+        "neutral": 0.13,
+        "negative": 0.51
+      },
+      "sentences": [
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.49,
+            "neutral": 0.11,
+            "negative": 0.4
+          },
+          "offset": 0,
+          "length": 238,
+          "text": "President Reagan was a proud Republican and supporter of a party that has carried on his fight for conservative principles of economic opportunity and limited government, RNC communications director Michael Ahrens told CNN in a statement."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.95,
+            "negative": 0.02
+          },
+          "offset": 239,
+          "length": 183,
+          "text": "His likeness is used by thousands of Republicans each year who gather around the country for 'Reagan Dinners,' and his library regularly hosts debates for our presidential candidates."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.4,
+            "neutral": 0.15,
+            "negative": 0.45
+          },
+          "offset": 423,
+          "length": 211,
+          "text": "Given that the Reagan Foundation just recently hosted the Trump family to raise money for its organization and has not objected to us using President Reagan's likeness before, their objection came as a surprise."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.99,
+            "negative": 0.0
+          },
+          "offset": 635,
+          "length": 110,
+          "text": "RNC Chair Ronna McDaniel wrote in a tweet, The Republican Party has used President Reagan's image for decades."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.38,
+            "negative": 0.61
+          },
+          "offset": 746,
+          "length": 162,
+          "text": "But since the Reagan Foundation is suddenly opposed to it, are they going to return the money @DonaldJTrumpJr and @kimguilfoyle raised for them just 8 months ago?"
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.1,
+            "neutral": 0.88,
+            "negative": 0.02
+          },
+          "offset": 909,
+          "length": 135,
+          "text": "before sharing a link to an event hosted by the foundation, featuring Donald Trump Jr., with proceeds benefiting the Reagan Foundation."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.08,
+            "neutral": 0.5,
+            "negative": 0.42
+          },
+          "offset": 1045,
+          "length": 265,
+          "text": "Ahrens also pointed to a number of events featuring members of the Trump family and administration benefiting the Reagan Foundation, telling CNN even though the RNC maintains their use of Reagan's likeness was appropriate, they'd pull the email pitch as a courtesy."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.81,
+            "negative": 0.16
+          },
+          "offset": 1311,
+          "length": 188,
+          "text": "Trump, and his campaign, directed ire at Fred Ryan, who works as the Washington Post's publisher and serves as chairman of the board of trustees for the California-based Reagan Foundation."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.27,
+            "neutral": 0.06,
+            "negative": 0.67
+          },
+          "offset": 1500,
+          "length": 140,
+          "text": "So the Washington Post is running the Reagan Foundation, Trump tweeted Sunday, promising supporters, We will win anyway despite phony polls."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.04,
+            "negative": 0.95
+          },
+          "offset": 1641,
+          "length": 199,
+          "text": "It should be no surprise that the publisher and CEO of the Washington Post wants to interfere with President Trump's reelection campaign, Trump campaign communications director Tim Murtaugh told CNN."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.96,
+            "neutral": 0.04,
+            "negative": 0.0
+          },
+          "offset": 1841,
+          "length": 88,
+          "text": "As Republicans, we all honor Ronald Reagan's contribution to this country and our party."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.89,
+            "negative": 0.09
+          },
+          "offset": 1930,
+          "length": 63,
+          "text": "The Reagan Foundation did not respond to a request for comment."
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": 13,
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 39,
+        "noVotes": 40
+      },
+      "confidenceScores": {
+        "positive": 0.32,
+        "neutral": 0.04,
+        "negative": 0.64
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 0,
+          "length": 260,
+          "text": "Wrote House editor David Wasserman of Republicans: Now they're just trying to avoid a repeat of 2008, when they not only lost the presidency but got swamped by Democrats' money and lost even more House seats after losing 30 seats and control two years earlier."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.91,
+            "neutral": 0.04,
+            "negative": 0.05
+          },
+          "offset": 261,
+          "length": 125,
+          "text": "For the first time this cycle, Democrats have at least as good a chance at gaining House seats as Republicans on a net basis."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 387,
+          "length": 91,
+          "text": "The problems for Republicans are compounded by the massive fundraising disparity they face."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.95,
+            "negative": 0.04
+          },
+          "offset": 479,
+          "length": 182,
+          "text": "According to the Center for Responsive Politics, Democratic House candidates have raised $457 million so far in this election to $365 million for their GOP counterparts as of July 1."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.12,
+            "neutral": 0.81,
+            "negative": 0.07
+          },
+          "offset": 662,
+          "length": 176,
+          "text": "And the gap is even wider in the most competitive races; in a baker's dozen of most competitive races with primaries in June and July, Democratic incumbents have nearly nine(!)"
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.63,
+            "neutral": 0.19,
+            "negative": 0.18
+          },
+          "offset": 839,
+          "length": 90,
+          "text": "times more on hand -- $40 million to $4.5 million -- than the best-funded GOP challengers."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 930,
+          "length": 136,
+          "text": "Combine a declining national environment with that sort of fundraising problem and you have a recipe for House disaster for Republicans."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1067,
+          "length": 197,
+          "text": "The Senate: At the start of the 2020 election, you'd have been hard-pressed to find a single national political handicapper willing to predict that Democrats would retake the chamber on November 3."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.94,
+            "neutral": 0.02,
+            "negative": 0.04
+          },
+          "offset": 1265,
+          "length": 151,
+          "text": "While the raw numbers looked good -- 23 Republican seats up as compared to 12 for Democrats -- the landscape was less favorable for the minority party."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.95,
+            "negative": 0.03
+          },
+          "offset": 1417,
+          "length": 39,
+          "text": "Just two Republican incumbents -- Sens."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.33,
+            "neutral": 0.66,
+            "negative": 0.01
+          },
+          "offset": 1457,
+          "length": 105,
+          "text": "Cory Gardner in Colorado and Susan Collins in Maine -- are running in states Hillary Clinton won in 2016."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.79,
+            "neutral": 0.08,
+            "negative": 0.13
+          },
+          "offset": 1563,
+          "length": 74,
+          "text": "Which means 21 of the 23 GOP seats are in places Trump won four years ago."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.08,
+            "neutral": 0.0,
+            "negative": 0.92
+          },
+          "offset": 1638,
+          "length": 203,
+          "text": "And yet, as the election has worn on, the outlook has shifted considerably -- thanks, in large part, to Trump's rapidly declining fortunes and struggles by GOP incumbents to distance themselves from him."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1842,
+          "length": 112,
+          "text": "In Arizona, Sen. Martha McSally (R) looks dead in the water in her race against former astronaut Mark Kelly (D)."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1955,
+          "length": 46,
+          "text": "Gardner is in deep trouble against former Gov."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.04,
+            "neutral": 0.95,
+            "negative": 0.01
+          },
+          "offset": 2002,
+          "length": 22,
+          "text": "John Hickenlooper (D)."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.08,
+            "neutral": 0.84,
+            "negative": 0.08
+          },
+          "offset": 2025,
+          "length": 126,
+          "text": "And Collins is facing by far the biggest challenge of her political career in the form of state House Speaker Sara Gideon (D)."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 2152,
+          "length": 73,
+          "text": "And those three seats are just the start of Senate Republicans' problems."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.19,
+            "negative": 0.81
+          },
+          "offset": 2226,
+          "length": 152,
+          "text": "Both seats in Georgia are in peril, as are North Carolina Sen. Thom Tillis, Iowa Sen. Joni Ernst, Montana Sen. Steve Daines and the open seat in Kansas."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.99,
+            "negative": 0.0
+          },
+          "offset": 2379,
+          "length": 14,
+          "text": "(Yes, Kansas!)"
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.04,
+            "neutral": 0.49,
+            "negative": 0.47
+          },
+          "offset": 2394,
+          "length": 153,
+          "text": "By contrast, Democrats have only one real issue: Alabama Sen. Doug Jones (D), who will face off against former Auburn coach Tommy Tuberville in the fall."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.36,
+            "neutral": 0.0,
+            "negative": 0.64
+          },
+          "offset": 2548,
+          "length": 104,
+          "text": "Jones, because of the state's strong Republican lean, could well do everything perfectly and still lose."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.02,
+            "negative": 0.97
+          },
+          "offset": 2653,
+          "length": 148,
+          "text": "(While Republicans talk about the vulnerability of Sen. Gary Peters in Michigan, there's not much evidence that race is going to be all that close.)"
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.84,
+            "neutral": 0.03,
+            "negative": 0.13
+          },
+          "offset": 2802,
+          "length": 179,
+          "text": "What it all means is this: Democrats have a WIDE playing field on which to attempt to win the three seats they need if Biden wins the White House and four if Trump gets reelected."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.98,
+            "neutral": 0.02,
+            "negative": 0.0
+          },
+          "offset": 2982,
+          "length": 126,
+          "text": "And at this point, they have to be considered favorites to do so, which is remarkable given where this two-year cycle started."
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": 14,
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 26,
+        "noVotes": 30
+      },
+      "confidenceScores": {
+        "positive": 0.12,
+        "neutral": 0.09,
+        "negative": 0.79
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 0,
+          "length": 266,
+          "text": "T(CNN)President Donald Trump's top aides are stepping up blame-game tactics against the states, saying coronavirus testing problems and rising cases are not his fault as they try to counter new polls suggesting that his leadership failings could cost him reelection."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.15,
+            "neutral": 0.15,
+            "negative": 0.7
+          },
+          "offset": 267,
+          "length": 293,
+          "text": "The move comes as Republicans on Capitol Hill haggle over a measure that would replace, with smaller benefits, $600 a week in federal aid to millions of workers that has already paid out for the last time, even as out-of-control virus spikes cause some states to slow or reverse opening plans."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.0,
+            "negative": 0.97
+          },
+          "offset": 561,
+          "length": 309,
+          "text": "The new administration drive to absolve Trump of responsibility and to speed up economic activity by encouraging people to go back to work follow the President's previously misjudged gamble to goad states that are now suffering terribly from the pandemic to open before they had properly suppressed the virus."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.07,
+            "negative": 0.93
+          },
+          "offset": 871,
+          "length": 105,
+          "text": "It also coincides with his demands that all schools open while ignoring concerns of parents and teachers."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 977,
+          "length": 229,
+          "text": "With many states complaining that delays in processing coronavirus tests are making it impossible to check the spread of the disease, the administration claimed again on Sunday that its Manhattan Project on testing is sufficient."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.54,
+            "neutral": 0.43,
+            "negative": 0.03
+          },
+          "offset": 1207,
+          "length": 197,
+          "text": "We have enough tests right now, if we use them in the right way, to achieve the goals that we need to achieve, Adm. Brett Giroir, the administration's testing czar said on CNN's State of the Union."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.08,
+            "neutral": 0.01,
+            "negative": 0.91
+          },
+          "offset": 1405,
+          "length": 208,
+          "text": "Giroir, who did allow that turnaround times for tests needed to improve, said states had not claimed all of the money allocated to build up test and tracing networks seen as critical to quelling the pandemic."
+        }
+      ],
+      "warnings": []
+    },
+    {
+      "id": 15,
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 58,
+        "noVotes": 60
+      },
+      "confidenceScores": {
+        "positive": 0.44,
+        "neutral": 0.08,
+        "negative": 0.48
+      },
+      "sentences": [
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+          },
+          "offset": 0,
+          "length": 174,
+          "text": "(CNN)Melania Trump announced Monday she will oversee a renovation of the White House Rose Garden, overhauling the iconic greenspace adjacent to the Oval Office and West Wing."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+          },
+          "offset": 175,
+          "length": 229,
+          "text": "Trump intends to restore the space to more resemble the original design and formation of the Rose Garden, established by President John F. Kennedy, and implemented in 1962 by horticulturist and philanthropist Rachel Bunny Mellon."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.99,
+            "negative": 0.01
+          },
+          "offset": 405,
+          "length": 196,
+          "text": "The renovation, which will include excavation, could take several weeks, according to a source familiar with the timeline, and the Rose Garden will, during that time, be out of commission for use."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.95,
+            "neutral": 0.04,
+            "negative": 0.01
+          },
+          "offset": 602,
+          "length": 136,
+          "text": "The very act of planting a garden involves hard work and hope in the possibility of a bright future, the first lady said in a statement."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.67,
+            "neutral": 0.33,
+            "negative": 0.0
+          },
+          "offset": 739,
+          "length": 258,
+          "text": "Preserving the history and beauty of the White House and its grounds is a testament to our nation's commitment to the care of this landscape and our dedication to American ideals, safeguarding them for our children and their children for generations to come."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.05,
+            "neutral": 0.94,
+            "negative": 0.01
+          },
+          "offset": 998,
+          "length": 116,
+          "text": "President Donald Trump has used the Rose Garden more frequently in recent weeks as a space to hold news conferences."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.08,
+            "neutral": 0.15,
+            "negative": 0.77
+          },
+          "offset": 1115,
+          "length": 207,
+          "text": "In the era of Covid-19, the outdoor venue provides more safety from potential spread of the virus for journalists and guests, as medical experts maintain being outside is more optimal than gathering indoors."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.06,
+            "neutral": 0.81,
+            "negative": 0.13
+          },
+          "offset": 1323,
+          "length": 128,
+          "text": "The decision to revamp the Rose Garden was made several months ago, according to the source familiar with the first lady's plan."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.05,
+            "neutral": 0.91,
+            "negative": 0.04
+          },
+          "offset": 1452,
+          "length": 179,
+          "text": "Renovations and large upkeep projects at the White House are oftentimes made during the month of August, when the first family is commonly away from Washington on summer vacation."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.94,
+            "negative": 0.03
+          },
+          "offset": 1632,
+          "length": 139,
+          "text": "In August 2017 and 2018, when the Trumps were in Bedminster, New Jersey, projects meant to repair and spruce up the White House took place."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.98,
+            "negative": 0.01
+          },
+          "offset": 1772,
+          "length": 384,
+          "text": "The Rose Garden is the latest White House renovation project for Trump, who already has revamped several spaces, including the White House bowling alley, the wall coverings in the Red Room, the furnishings in the Blue Room, the draperies in the Green Room and the rug in the Diplomatic Reception Room, to which she had added a border of the flowers representing each of the 50 states."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.96,
+            "negative": 0.02
+          },
+          "offset": 2157,
+          "length": 236,
+          "text": "Renovations of the White House's public rooms (the latter four) are funded by private donations to the White House Historical Association, a nonprofit institution that serves to oversee the conservation and upkeep of the People's House."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.1,
+            "neutral": 0.85,
+            "negative": 0.05
+          },
+          "offset": 2394,
+          "length": 141,
+          "text": "The cost of the renovation of the bowling alley was covered by the Bowling Proprietors' Association of America, according to the White House."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.05,
+            "neutral": 0.94,
+            "negative": 0.01
+          },
+          "offset": 2536,
+          "length": 119,
+          "text": "The Rose Garden renovation will be financed with private donations, according to two sources familiar with the project."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.05,
+            "neutral": 0.57,
+            "negative": 0.38
+          },
+          "offset": 2656,
+          "length": 32,
+          "text": "The White House did not comment."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.03,
+            "negative": 0.97
+          },
+          "offset": 2689,
+          "length": 286,
+          "text": "In March, as the coronavirus began to take hold in the United States, Trump was criticized for providing an update on another renovation she is spearheading: the White House Tennis Pavilion, a privately funded project on the South Lawn for use only by the first family and their guests."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.91,
+            "neutral": 0.09,
+            "negative": 0.0
+          },
+          "offset": 2976,
+          "length": 276,
+          "text": "Trump first announced the pavilion renovation last October in a tweet featuring a picture of herself with a ceremonial shovel and a statement that said in part, It is my hope that this private space will function as a place to gather and spend leisure time for First Families."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 3253,
+          "length": 377,
+          "text": "Trump's March post -- expressing her excitement and featuring photographs of the first lady wearing a hard hat and looking over apparent architectural plans -- met a plethora of negative reaction that seized on the first lady's post about a luxurious recreational venue despite a lack of public sentiments about the ongoing global pandemic and rising number of American deaths."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 3631,
+          "length": 68,
+          "text": "The backlash prompted Trump to make a rare statement in her defense."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.88,
+            "neutral": 0.0,
+            "negative": 0.12
+          },
+          "offset": 3700,
+          "length": 189,
+          "text": "I encourage everyone who chooses to be negative (and) question my work at the ‪@WhiteHouse to take time and contribute something good (and) productive in their own communities, she tweeted."
+        }
+      ],
+      "warnings": []
+    }
+  ]
+}

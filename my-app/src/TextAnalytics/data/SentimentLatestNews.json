@@ -1,0 +1,1663 @@
+{
+  "SentimentAnalysis": [
+    {
+      "id": "1",
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 49,
+        "noVotes": 52
+      },
+      "confidenceScores": {
+        "positive": 0.05,
+        "neutral": 0.05,
+        "negative": 0.9
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 0,
+          "length": 85,
+          "text": "A deadly heat wave was headed to Arizona on Thursday, lasting through Saturday night."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.01,
+            "negative": 0.97
+          },
+          "offset": 86,
+          "length": 145,
+          "text": "Experts warned residents to stay safe and take extra precautions, as record-breaking temperatures and dryness are expected for the upcoming days."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.02,
+            "negative": 0.98
+          },
+          "offset": 232,
+          "length": 126,
+          "text": "This heat is rare, and dangerous and deadly, said James Sawtelle, a meteorologist for the National Weather Service in Phoenix."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 359,
+          "length": 308,
+          "text": "The extremely hot temperatures will have a good chance of setting a couple of daily record highs for late July, according to Sawtelle.Thursday broke the daily record at 116 degrees Fahrenheit around 2:30 p.m., exceeding the 115 degree record that was set in 1934, according to a Tweet by the weather service."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.99,
+            "negative": 0.0
+          },
+          "offset": 668,
+          "length": 73,
+          "text": "At 4 p.m., temperatures reached 118 degrees, creating a new daily record."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.98,
+            "negative": 0.01
+          },
+          "offset": 742,
+          "length": 190,
+          "text": "The last time Phoenix Sky Harbor International Airport hit 118 degrees was July 7, 2017, according to the weather service, which added that Thursday tied for the sixth warmest day on record."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.99,
+            "negative": 0.0
+          },
+          "offset": 933,
+          "length": 93,
+          "text": "On June 26, 1990, Phoenix hit 122 degrees, the hottest temperature ever recorded in the city."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1027,
+          "length": 267,
+          "text": "Friday is also expected to hit 116 degrees, exceeding the previous record of 115 degrees.The Weather Service issued an excessive heat warning for areas of south central Arizona, including Phoenix-area cities and communities, that will remain in effect until Saturday."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 1295,
+          "length": 61,
+          "text": "Although, the warning may be extended further, Sawtelle said."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.99,
+            "negative": 0.01
+          },
+          "offset": 1357,
+          "length": 288,
+          "text": "On top of that, Phoenix is in its 15th consecutive day of above 90-degree low temperatures, as the low Thursday morning was 91 degrees, making 2020 tied in first place for the highest number of above-90 degree lows in a calendar year, according to a tweet by the National Weather Service."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.36,
+            "negative": 0.62
+          },
+          "offset": 1646,
+          "length": 40,
+          "text": "Friday is expected to break that record."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.99,
+            "negative": 0.01
+          },
+          "offset": 1687,
+          "length": 89,
+          "text": "The heat is coming from a high pressure loft that is parked above Arizona, Sawtelle said."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.93,
+            "negative": 0.06
+          },
+          "offset": 1777,
+          "length": 157,
+          "text": "The high pressure loft is unusually strong, blocking out the usual moisture cycles from Mexico that Arizona would normally be experiencing this time of year."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.03,
+            "negative": 0.97
+          },
+          "offset": 1935,
+          "length": 109,
+          "text": "Instead, the moisture tracks have been cut off and disrupted, making for a very dry situation, Sawtelle said."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 2045,
+          "length": 137,
+          "text": "The heat risk ranges from high to very high, as temperatures could range from 115 to 118 degrees, especially in areas of western Arizona."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 2183,
+          "length": 225,
+          "text": "While the extremely dry conditions don't allow for good chances of rain in Phoenix, We could see an uptick in thunderstorms sometime in the middle to later next week, in far eastern or far southeastern Arizona, Sawtelle said."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.55,
+            "neutral": 0.24,
+            "negative": 0.21
+          },
+          "offset": 2409,
+          "length": 168,
+          "text": "Sawtelle advised Arizona residents to take extra precautions not to accidentally lock pets or children in cars, and check on family and friends to make sure they're OK."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 2578,
+          "length": 227,
+          "text": "In a tweet, the Weather Service said residents should also avoid strenuous activity, cancel outdoor activities, seek air conditioned buildings, prepare for hot overnight temperatures and hydrate (even before they feel thirsty)."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 2806,
+          "length": 78,
+          "text": "Temperatures during this time of a year are rare and dangerous, Sawtelle said."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.98,
+            "negative": 0.0
+          },
+          "offset": 2885,
+          "length": 57,
+          "text": "You just have to really be on guard and respect the heat."
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 40,
+        "noVotes": 52
+      },
+      "confidenceScores": {
+        "positive": 0.05,
+        "neutral": 0.06,
+        "negative": 0.89
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 0,
+          "length": 233,
+          "text": "WASHINGTON – President Donald Trump on Thursday appeared to row back on the idea of delaying the 2020 election, even as he continued to raise doubts about efforts to expand mail-in voting in some states to respond to the coronavirus."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.95,
+            "negative": 0.02
+          },
+          "offset": 234,
+          "length": 31,
+          "text": "Do I want to see a date change?"
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 266,
+          "length": 85,
+          "text": "No, Trump said at the White House hours after raising the idea of a delay in a tweet."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.03,
+            "negative": 0.97
+          },
+          "offset": 352,
+          "length": 43,
+          "text": "But I don't want to see a crooked election."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 396,
+          "length": 251,
+          "text": "Trump drew bipartisan derision Thursday for questioning whether the presidential election should be delayed over concerns about voting during the pandemic – and his longstanding and unproven assertion that mail-in ballots would lead to election fraud."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 648,
+          "length": 293,
+          "text": "Congressional Republicans bluntly rejected the idea and Democrats accused the president of attempting to sow doubt if the election doesn't go his way.Despite the blow back, Trump did not foreclose on continuing to push for a delay in voting – an idea that would require approval from Congress."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 942,
+          "length": 121,
+          "text": "Instead, he indicated he wasn't advocating for a delay while he simultaneously lamented efforts to expand mail-in voting."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1064,
+          "length": 55,
+          "text": "What will happen in November – it's a mess, Trump said."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.94,
+            "negative": 0.05
+          },
+          "offset": 1120,
+          "length": 105,
+          "text": "I want a result much, more more than you...I don't want to be waiting around around for weeks and months."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1226,
+          "length": 142,
+          "text": "Democrats said Trump's latest remarks were not overly convincing and likely foreshadowed a continuing effort to cast doubt about the election."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.43,
+            "neutral": 0.31,
+            "negative": 0.26
+          },
+          "offset": 1369,
+          "length": 177,
+          "text": "Trump is trailing presumptive Democratic nominee Joe Biden in battleground states, though analysts from both parties acknowledge there is ample time for the landscape to change."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1547,
+          "length": 143,
+          "text": "Political opponents said Trump is clearly threatening to dispute the election, either by a call for a delay or lawsuits over mail-in balloting."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1691,
+          "length": 190,
+          "text": "Cut through his blaze of fraudulent claims about vote by mail, the @POTUS foreshadows months of resistance and legal wrangling if he doesn’t win, tweeted Democratic strategist David Axelrod."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.39,
+            "negative": 0.58
+          },
+          "offset": 1882,
+          "length": 73,
+          "text": "Conservative commentator Erick Erickson also questioned Trump's strategy."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1956,
+          "length": 178,
+          "text": "The President is single-handedly undermining his re-election with both nutty conspiracies about voting by mail and insane ramblings about delaying the election, Erickson tweeted."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 2135,
+          "length": 80,
+          "text": "A growing portion of his base is frustrated and thinks he's just trying to lose."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.94,
+            "negative": 0.04
+          },
+          "offset": 2216,
+          "length": 147,
+          "text": "The president had pinned the election tweet to his Twitter feed throughout the day Thursday, assuring that his 84.3 million followers would see it."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.63,
+            "negative": 0.35
+          },
+          "offset": 2364,
+          "length": 38,
+          "text": "By late Thursday, the pin was removed."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.13,
+            "neutral": 0.21,
+            "negative": 0.66
+          },
+          "offset": 2403,
+          "length": 203,
+          "text": "Trump also called on lawmakers to approve a short-term extension of unemployment benefits, an idea that has been embraced by Republicans on Capitol Hill but that met with stiff resistance from Democrats."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 2607,
+          "length": 119,
+          "text": "The two parties are struggling to negotiate another round of stimulus to address the economic harm caused by the virus."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.19,
+            "neutral": 0.48,
+            "negative": 0.33
+          },
+          "offset": 2727,
+          "length": 125,
+          "text": "We want a temporary extension of expanded unemployment benefits, the president told reporters at the White House on Thursday."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.49,
+            "neutral": 0.01,
+            "negative": 0.5
+          },
+          "offset": 2853,
+          "length": 116,
+          "text": "This will provide a critical bridge for Americans who lost their jobs to the pandemic through no fault of their own."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.92,
+            "negative": 0.06
+          },
+          "offset": 2970,
+          "length": 80,
+          "text": "Democrats want a broader agreement that would include other stimulus provisions."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 3051,
+          "length": 160,
+          "text": "Trump started off his remarks Thursday by offering his sympathy for former Republican presidential candidate Herman Cain, who died after a battle with COVID-19."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.08,
+            "negative": 0.89
+          },
+          "offset": 3212,
+          "length": 29,
+          "text": "No one is immune, Trump said."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 3242,
+          "length": 67,
+          "text": "We can never ever forget the people who have been lost, Trump said."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.16,
+            "negative": 0.83
+          },
+          "offset": 3310,
+          "length": 132,
+          "text": "After a weeks-long hiatus, Trump returned July 21 to holding regular COVID-19 briefings that he had started earlier in the pandemic."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.24,
+            "negative": 0.73
+          },
+          "offset": 3443,
+          "length": 178,
+          "text": "Unlike in the past, Trump has kept the latest round of briefings relatively short and has not invited members of the White House coronavirus task force to join him at the podium."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.05,
+            "neutral": 0.91,
+            "negative": 0.04
+          },
+          "offset": 3622,
+          "length": 58,
+          "text": "Trump last took questions in the briefing room on Tuesday."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 3681,
+          "length": 98,
+          "text": "Since then, the nation surged past 150,000 COVID-19 deaths, according to Johns Hopkins University."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 3780,
+          "length": 97,
+          "text": "Several large states, including California and Florida, are setting new records for virus deaths."
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 30,
+        "noVotes": 45
+      },
+      "confidenceScores": {
+        "positive": 0.19,
+        "neutral": 0.06,
+        "negative": 0.75
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.17,
+            "negative": 0.81
+          },
+          "offset": 0,
+          "length": 125,
+          "text": "MIAMI — Homeless shelter in Key West, has a rule about disasters: You know you've reached the end of one when another begins."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 126,
+          "length": 139,
+          "text": "Devastation from the Category 5 storm was so widespread that not until this spring was she able to get through a day without invoking Irma."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.03,
+            "negative": 0.97
+          },
+          "offset": 266,
+          "length": 91,
+          "text": "Now, as hurricane season approaches its mid-August peak, there's also a pandemic to endure."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.98,
+            "negative": 0.02
+          },
+          "offset": 358,
+          "length": 118,
+          "text": "Public health experts are calling Florida a COVID-19 epicenter within the U.S., which has the most cases in the world."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 477,
+          "length": 154,
+          "text": "The state reported more than 250 new deaths from the coronavirus on Thursday, setting another one-day record for new deaths for the third consecutive day."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.05,
+            "negative": 0.95
+          },
+          "offset": 632,
+          "length": 121,
+          "text": "The question is: Can the state handle a rampaging hurricane in the midst of a historic public health and economic crisis?"
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.89,
+            "negative": 0.11
+          },
+          "offset": 754,
+          "length": 73,
+          "text": "Florida is hurricane-tested and hardened; state officials know the drill."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.33,
+            "neutral": 0.6,
+            "negative": 0.07
+          },
+          "offset": 828,
+          "length": 109,
+          "text": "Emergency managers and consultants say their planning reflects the extra challenges the coronavirus presents."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.25,
+            "neutral": 0.17,
+            "negative": 0.58
+          },
+          "offset": 938,
+          "length": 149,
+          "text": "Shelters must be stocked with protective gear and reconfigured to accommodate social distancing for the healthy and isolation for the sick, they say."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.76,
+            "neutral": 0.04,
+            "negative": 0.2
+          },
+          "offset": 1088,
+          "length": 127,
+          "text": "Residents of flood-prone areas who've been told for months to hunker down at home must be coaxed outside to reach safer places."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.02,
+            "negative": 0.98
+          },
+          "offset": 1216,
+          "length": 326,
+          "text": "The Florida Division of Emergency Management says it's providing masks, generators and guidance to the state's 67 counties on how to conform storm shelters for the pandemic: admit no more than 50 people, use temperature-taking and other screening methods to identify the sick, maintain at least 60 square feet for each person."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.05,
+            "neutral": 0.13,
+            "negative": 0.82
+          },
+          "offset": 1543,
+          "length": 174,
+          "text": "Optimistic about how Florida will handle hurricane season during a pandemic, because the whole country has been very focused on COVID-19 and what we need to do to contain it."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1718,
+          "length": 224,
+          "text": "Disaster managers emphasize a heightened need for volunteerism, philanthropy, self-reliance and sense of community to supplement government support at a time when resources at every level are stretched to the breaking point."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.85,
+            "neutral": 0.13,
+            "negative": 0.02
+          },
+          "offset": 1943,
+          "length": 139,
+          "text": "They're working with the more civic-minded hotel chains to offer rooms for hurricane evacuees for free or at reduced rates, Zimmerman says."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.83,
+            "neutral": 0.12,
+            "negative": 0.05
+          },
+          "offset": 2083,
+          "length": 109,
+          "text": "More than 500 hotels have expressed interest in providing rooms for sheltering, the FDEM said in a statement."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.95,
+            "negative": 0.05
+          },
+          "offset": 2193,
+          "length": 123,
+          "text": "Florida's Red Cross chapter sent out a call for hundreds of hurricane volunteers, saying COVID-19 is depleting their ranks."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 2317,
+          "length": 96,
+          "text": "Volunteers tend to be 65 and older, the group most likely to suffer fatalities from the disease."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 2414,
+          "length": 172,
+          "text": "The weather is already making news as Tropical Storm Isaias heads toward Hispaniola and, possibly Florida, where virus testing sites will be closed for safety this weekend."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.82,
+            "negative": 0.16
+          },
+          "offset": 2587,
+          "length": 183,
+          "text": "This season should be more active than usual, with 16 named storms ahead, including eight hurricanes, half of them Category 3 to 5, forecasters from Colorado State University predict."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.12,
+            "neutral": 0.05,
+            "negative": 0.83
+          },
+          "offset": 2771,
+          "length": 134,
+          "text": "To meteorologist Dennis Feltgen, that forecast plus the pandemic adds up to this: Floridians shouldn't wait to buy hurricane supplies."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.96,
+            "negative": 0.02
+          },
+          "offset": 2906,
+          "length": 120,
+          "text": "You need to prepare as if you're going to get hit, says Feltgen, a spokesman for the National Hurricane Center in Miami."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 3027,
+          "length": 256,
+          "text": "Feltgen says detailed guidelines for preparation and sheltering during the pandemic are available from the Centers for Disease Control and Prevention, which acknowledges that preparing for a hurricane in the middle of an outbreak is particularly stressful."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.75,
+            "neutral": 0.25,
+            "negative": 0.0
+          },
+          "offset": 3284,
+          "length": 47,
+          "text": "The coronavirus has a powerful hold on Florida."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 3332,
+          "length": 99,
+          "text": "Health officials have confirmed 461,379 cases and 6,586 deaths, the Miami Herald reported Thursday."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.93,
+            "negative": 0.06
+          },
+          "offset": 3432,
+          "length": 122,
+          "text": "Since July 10, when Florida health officials began reporting COVID-19 hospitalizations, they're up 36%, according to CNBC."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.0,
+            "negative": 0.99
+          },
+          "offset": 3555,
+          "length": 198,
+          "text": "Miami hospitals that hit full ICU capacity are referring patients to neighboring Broward County; medical staffers and first responders are falling ill and even if they're healthy, they're exhausted."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.09,
+            "neutral": 0.61,
+            "negative": 0.3
+          },
+          "offset": 3754,
+          "length": 76,
+          "text": "The last three weeks have been some of the busiest shifts in my entire life."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.06,
+            "negative": 0.91
+          },
+          "offset": 3831,
+          "length": 56,
+          "text": "We've seen some of the sickest patients we've ever seen."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+          },
+          "offset": 3888,
+          "length": 95,
+          "text": "Tourism-dependent Key West, with a population of about 24,100, reopened for business on June 1."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.99,
+            "negative": 0.01
+          },
+          "offset": 3984,
+          "length": 66,
+          "text": "Since then, the number of COVID-19 cases has gone up dramatically."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.89,
+            "negative": 0.1
+          },
+          "offset": 4051,
+          "length": 74,
+          "text": "Before the reopening, it was under 200 and now it's over 1,000 and rising."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.08,
+            "negative": 0.92
+          },
+          "offset": 4126,
+          "length": 140,
+          "text": "To address concerns about COVID-19, Kaple has to provide protective equipment at the shelter and strive to avoid crowding in close quarters."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.2,
+            "negative": 0.79
+          },
+          "offset": 4267,
+          "length": 109,
+          "text": "When her clients must evacuate from the island ahead of a storm, they can't afford transportation and motels."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.95,
+            "neutral": 0.04,
+            "negative": 0.01
+          },
+          "offset": 4377,
+          "length": 137,
+          "text": "Kaple tells them to try to identify friends or relatives who might agree to share their homes briefly, just to be safer during that time."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 4515,
+          "length": 142,
+          "text": "But the pandemic adds a disincentive, as relatives and friends may hesitate to take in outsiders who, they fear, could carry a deadly disease."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 4658,
+          "length": 126,
+          "text": "There's a million horrible things that can happen during a pandemic and we have to accept that bad things are going to happen."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.36,
+            "neutral": 0.62,
+            "negative": 0.02
+          },
+          "offset": 4785,
+          "length": 87,
+          "text": "How do I run a shelter while dealing with COVID-19 and help as many people as possible?"
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.94,
+            "negative": 0.04
+          },
+          "offset": 4873,
+          "length": 50,
+          "text": "We have to accept there's no end to this in sight."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.19,
+            "neutral": 0.77,
+            "negative": 0.04
+          },
+          "offset": 4924,
+          "length": 89,
+          "text": "That's how all of us are going to have to start living our lives until there's a vaccine."
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 36,
+        "noVotes": 45
+      },
+      "confidenceScores": {
+        "positive": 0.14,
+        "neutral": 0.1,
+        "negative": 0.76
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.02,
+            "negative": 0.96
+          },
+          "offset": 0,
+          "length": 198,
+          "text": "Texas superintendents need flexibility to respond to concerns about COVID-19 without the worry that they’ll lose funding for their schools, an administrators’ group told state officials on Thursday."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 199,
+          "length": 177,
+          "text": "Many superintendents thought they were ready to tackle back-to-school issues, but moves by state leaders this week upended their plans and led to widespread confusion and worry."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.79,
+            "negative": 0.2
+          },
+          "offset": 377,
+          "length": 246,
+          "text": "Texas Attorney General Ken Paxton on Tuesday released a letter stating that local public health authorities could not keep schools closed indefinitely and prohibit in-person classes as a preventative measure to curb the spread of the coronavirus."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.38,
+            "negative": 0.59
+          },
+          "offset": 624,
+          "length": 239,
+          "text": "As a result, Texas education commissioner Mike Morath said that guidance letter — though not binding — meant that schools would not necessarily receive full state funding for virtual-only learning if closed because of a local health order."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.04,
+            "negative": 0.96
+          },
+          "offset": 864,
+          "length": 153,
+          "text": "The Texas Association of School Administrators issued a statement Thursday saying Paxton’s letter has only muddied the waters and created more confusion."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.54,
+            "neutral": 0.03,
+            "negative": 0.43
+          },
+          "offset": 1018,
+          "length": 207,
+          "text": "We believe schools should have the authority to work with local health officials to determine when it is safe for schools to be open for in-person instruction without the threat of funding cuts by the state."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.3,
+            "negative": 0.69
+          },
+          "offset": 1226,
+          "length": 189,
+          "text": "TASA, which represents superintendents, said schools need certainty that they will be fully funded all school year if they have to pivot to online or hybrid classes because of the pandemic."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.71,
+            "negative": 0.27
+          },
+          "offset": 1416,
+          "length": 176,
+          "text": "Morath said in a statement this week that schools could begin their school year virtually and receive full funding for four weeks with an additional four-week option if needed."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.99,
+            "negative": 0.0
+          },
+          "offset": 1593,
+          "length": 107,
+          "text": "But some on-campus instruction had to be provided during that extended transition period, according to TEA."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.98,
+            "negative": 0.01
+          },
+          "offset": 1701,
+          "length": 101,
+          "text": "TEA will also continue to adjust its waivers as the situation warrants, Morath said in his statement."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.15,
+            "neutral": 0.85,
+            "negative": 0.0
+          },
+          "offset": 1803,
+          "length": 83,
+          "text": "“Protecting the health of students, teachers, and staff remains our first priority."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.75,
+            "negative": 0.25
+          },
+          "offset": 1887,
+          "length": 192,
+          "text": "But he noted that while lawful building closure orders will allow schools to receive funding, Paxton’s guidance indicates that preventative closures by local health authorities are not lawful."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.26,
+            "neutral": 0.67,
+            "negative": 0.07
+          },
+          "offset": 2080,
+          "length": 151,
+          "text": "The TASA letter noted that school administrators need to make decisions based on local conditions as well as reliable and objective health information."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 2232,
+          "length": 97,
+          "text": "The frustration over the changing guidance this week has local officials exploring their options."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.93,
+            "negative": 0.04
+          },
+          "offset": 2330,
+          "length": 94,
+          "text": "For example, San Antonio Mayor Ron Nirenberg and Bexar County Judge Nelson Wolff wrote to Gov."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.12,
+            "neutral": 0.03,
+            "negative": 0.85
+          },
+          "offset": 2425,
+          "length": 56,
+          "text": "Greg Abbott asking him to resolve some of the confusion."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 2482,
+          "length": 86,
+          "text": "They said if he disagreed with their local health directive, then he should revoke it."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.99,
+            "negative": 0.01
+          },
+          "offset": 2569,
+          "length": 90,
+          "text": "Otherwise, they asked that Abbott clarify that local health authority directives do apply."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.78,
+            "negative": 0.2
+          },
+          "offset": 2660,
+          "length": 72,
+          "text": "We have a common goal to reduce the COVID-19 infection rate, they wrote."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.5,
+            "neutral": 0.47,
+            "negative": 0.03
+          },
+          "offset": 2733,
+          "length": 113,
+          "text": "Our school systems must be a part of the effort for the safety and wellbeing [sic] of the communities they serve."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.91,
+            "negative": 0.07
+          },
+          "offset": 2847,
+          "length": 73,
+          "text": "Abbott’s office has not responded to requests for comment on that letter."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.95,
+            "negative": 0.02
+          },
+          "offset": 2921,
+          "length": 109,
+          "text": "Meanwhile, school districts are changing back-to-school plans yet again in response to the changing guidance."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.11,
+            "negative": 0.88
+          },
+          "offset": 3031,
+          "length": 246,
+          "text": "Tarrant County health officials had issued an order that delayed on-campus lessons for most students until at least Sept. 28, so many districts in that area had not intended to offer face-to-face classes until after the first six weeks of school."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.81,
+            "negative": 0.18
+          },
+          "offset": 3278,
+          "length": 80,
+          "text": "But after the AG’s letter arrived, districts started scrambling to adjust plans."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.18,
+            "neutral": 0.74,
+            "negative": 0.08
+          },
+          "offset": 3359,
+          "length": 72,
+          "text": "Fort Worth ISD, for example, was set to start classes virtually Aug. 17."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.02,
+            "negative": 0.98
+          },
+          "offset": 3432,
+          "length": 153,
+          "text": "But during an emergency board meeting Thursday, trustees voted 8-1 to delay the start of school to Sept. 8. with online classes for the first four weeks."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+          },
+          "offset": 3586,
+          "length": 87,
+          "text": "Dallas ISD’s plan is to start on that date offering both virtual and in-person classes."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 3674,
+          "length": 174,
+          "text": "“This is a very difficult decision because regardless of the decision, there will be people who are not happy with how we proceed,” trustee Anne Darr said during the meeting."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.27,
+            "negative": 0.72
+          },
+          "offset": 3849,
+          "length": 159,
+          "text": "Some state leaders have spoken out against TEA’s interpretation that schools can’t receive full funding if they are shut down because of a public health order."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.12,
+            "neutral": 0.6,
+            "negative": 0.28
+          },
+          "offset": 4009,
+          "length": 149,
+          "text": "This is not the procedure we should be following to reopen Texas schools, said Sen. Royce West, D-Dallas, who is on the senate’s education committee."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.92,
+            "negative": 0.06
+          },
+          "offset": 4159,
+          "length": 80,
+          "text": "We should not be turning our back on the guidance from local health authorities."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 1.0,
+            "neutral": 0.0,
+            "negative": 0.0
+          },
+          "offset": 4240,
+          "length": 122,
+          "text": "Local health authorities are best suited to know when a spike indicates that local schools should stop in-person learning."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.08,
+            "neutral": 0.06,
+            "negative": 0.86
+          },
+          "offset": 4363,
+          "length": 162,
+          "text": "The conservative Texas Public Policy Foundation said Paxton’s guidance was correct, noting that local health authorities lack the power to issue blanket closures."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.03,
+            "negative": 0.97
+          },
+          "offset": 4526,
+          "length": 149,
+          "text": "Unless applied to individual campuses based upon specific facts, these local health orders are unlawful and void,” the policy noted in its statement."
+        }
+      ]
+    },
+    {
+      "id": "5",
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 76,
+        "noVotes": 80
+      },
+      "confidenceScores": {
+        "positive": 0.13,
+        "neutral": 0.07,
+        "negative": 0.8
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 0,
+          "length": 256,
+          "text": "Following some criticism from a petition deeming product names as racist a few weeks ago, Trader Joe's has since offered some insight into its product-naming process, stating that it disagreed with the claim that its products should be construed as racist."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 257,
+          "length": 110,
+          "text": "A few weeks ago, an online petition was launched calling on us to remove racist packaging from [our] products."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 368,
+          "length": 144,
+          "text": "Following were inaccurate reports that the petition prompted us to take action, reads a statement posted to the Trader Joe's website on July 24."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 513,
+          "length": 69,
+          "text": "We want to be clear: we disagree that any of these labels are racist."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.92,
+            "negative": 0.08
+          },
+          "offset": 583,
+          "length": 44,
+          "text": "We do not make decisions based on petitions."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.98,
+            "negative": 0.01
+          },
+          "offset": 628,
+          "length": 148,
+          "text": "We make decisions based on what customers purchase, as well as the feedback we receive from our customers and Crew Members, the statement continued."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.99,
+            "negative": 0.0
+          },
+          "offset": 777,
+          "length": 71,
+          "text": "If we feel there is need for change, we do not hesitate to take action."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.04,
+            "neutral": 0.93,
+            "negative": 0.03
+          },
+          "offset": 849,
+          "length": 168,
+          "text": "The company went on to explain that it constantly reevaluate[s] its products in order to ensure it makes sense for our business and aligns with customers’ expectations."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 1018,
+          "length": 182,
+          "text": "In a product evaluation two years ago, the company stated it had made the decision to discontinue items and product names that weren't connecting with customers or did not sell well."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.99,
+            "negative": 0.0
+          },
+          "offset": 1201,
+          "length": 43,
+          "text": "It’s kind of what we do, the website noted."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.07,
+            "neutral": 0.27,
+            "negative": 0.66
+          },
+          "offset": 1245,
+          "length": 562,
+          "text": "The grocery chain also reiterated the fact that its product names — citing Trader Giotto's, Trader Ming's and even a mathematical theory-themed product name, Avocado's Number — were meant to be fun and show appreciation for other cultures.Previously, in response to initial requests for comment when the petition first circulated online, Trader Joe's took a different tone on the product names, at first stating that the naming conventions may have been rooted in a lighthearted attempt at inclusiveness and acknowledging that it may not be how it's taken today."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.77,
+            "neutral": 0.07,
+            "negative": 0.16
+          },
+          "offset": 1808,
+          "length": 274,
+          "text": "We recognize that it may now have the opposite effect — one that is contrary to the welcoming, rewarding customer experience we strive to create every day, said Kenya Friend-Daniel, national director of public relations for Trader Joe's, in that earlier statement to SFGATE."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.05,
+            "neutral": 0.93,
+            "negative": 0.02
+          },
+          "offset": 2083,
+          "length": 148,
+          "text": "With this in mind, we made the decision several years ago to use only the Trader Joe's name on our products moving forward, the statement continued."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.98,
+            "negative": 0.01
+          },
+          "offset": 2232,
+          "length": 187,
+          "text": "Since then, we have been in the process of updating older labels and replacing any variations with the name Trader Joe's, and we will continue do so until we complete this important work."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 2420,
+          "length": 225,
+          "text": "I think that the central issue at the heart of all this is that when any community isn’t allowed control over their representation, harmful stereotypes and caricatures are allowed to be perpetuated, Bedell told The Chronicle."
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.61,
+            "neutral": 0.27,
+            "negative": 0.12
+          },
+          "offset": 2646,
+          "length": 286,
+          "text": "I think we can derive and apply some of the lessons learned within the protecting intangible cultural contents sphere to other instances of cultural insensitivity, as in the case of Trader Joe’s branding of ethnic foods with these names like Trader Ming’s, Trader Jose, Thai Joe’s, etc."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 2933,
+          "length": 271,
+          "text": "I felt that the branding was insensitive, and when you put it in this larger context of the Trader Joe’s corporate brand philosophy, it becomes more apparent that there’s an actual issue of systemic or institutional racism rather than just tone deafness, she later added."
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.04,
+            "neutral": 0.95,
+            "negative": 0.01
+          },
+          "offset": 3205,
+          "length": 38,
+          "text": "(The full interview can be read here.)"
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.09,
+            "negative": 0.91
+          },
+          "offset": 3244,
+          "length": 277,
+          "text": "Bedell addressed Trader Joe's initial response to the petition in her own words here, as well as made comments on the company's latest statement, typifying the responses as contradictory and asking that the company to clarify which ethnically branded products will be modified."
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.1,
+            "neutral": 0.11,
+            "negative": 0.79
+          },
+          "offset": 3522,
+          "length": 321,
+          "text": "Indeed, in its post from last week, Trader Joe's made no mention on the progress made or future plans to get rid of specific product names, instead saying that it heard from customers that the product names were largely viewed in exactly the way they were intended­ — as an attempt to have fun with our product marketing."
+        }
+      ]
+    }
+  ]
+}

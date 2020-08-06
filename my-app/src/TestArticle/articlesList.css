@@ -1,0 +1,8 @@
+.ArticleContainer {
+    display: table-row-group;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 200px 200px 200px;
+    grid-column: unset;
+    box-shadow: none;
+}
+

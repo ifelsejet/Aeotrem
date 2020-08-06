@@ -1,0 +1,256 @@
+{
+  "_type": "News",
+  "webSearchUrl": "https://www.bing.com/news/search?q=political+news&form=TNSA02",
+  "value": [
+    {
+      "name": "Tucker Carlson attacked Barack Obama as a 'greasy politician' for addressing civil rights and police racism at civil-rights icon John Lewis' funeral ",
+      "url": "https://www.businessinsider.com/tucker-carlson-attacks-obama-for-john-lewis-funeral-oration-2020-7",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.07913384AB110AC85A31811FB196B970&pid=News",
+          "width": 1200,
+          "height": 600
+        },
+        "isLicensed": false
+      },
+      "description": "The criticisms baffled some, given how central the issues Obama discussed were to the life and work of Lewis, who died at age 80 this month.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Business Insider",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AMMS_b3ffab7279c7b6b448383d03bb5daec1"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T14:05:00.0000000Z"
+    },
+    {
+      "name": "Shouldn’t more Californians care about Kamala Harris’ shot at being named Biden’s VP? ",
+      "url": "https://www.mercurynews.com/2020/07/31/shouldnt-more-californians-care-about-kamala-harris-shot-at-being-named-bidens-vp/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.B7DE54DE50CF1B181928E4250AC6B0F7&pid=News",
+          "width": 620,
+          "height": 413
+        },
+        "isLicensed": false
+      },
+      "description": "With two high-profile woman of color from the Golden State on Joe Biden’s shortlist to join the Democratic ticket, why aren’t more Californians excited?",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Mercury News",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_b7cdc2df8afb41d7cc13684585e4ff57"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T14:05:00.0000000Z"
+    },
+    {
+      "name": "Census to end counting efforts a month early: report ",
+      "url": "https://thehill.com/homenews/administration/509940-census-to-end-counting-efforts-a-month-early-report",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.ADD147C94D4BF564C03B89959AD8AB8D&pid=News",
+          "width": 827,
+          "height": 551
+        },
+        "isLicensed": false
+      },
+      "description": "The Census Bureau has decided to cut the amount of time that it will spend knocking on doors across the country by a month, NPR reports.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Hill",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_fbfe507a57f598418fd179b0dec78111"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T14:10:00.0000000Z"
+    },
+    {
+      "name": "President Trump courts controversy after suggesting election delay over voter fraud concerns ",
+      "url": "https://news.yahoo.com/president-trump-courts-controversy-suggesting-231141665.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.7A669633D14385AE2FA5E8545249CA93&pid=News",
+          "width": 1280,
+          "height": 720
+        },
+        "isLicensed": false
+      },
+      "description": "Trump faces bipartisan backlash over tweeted suggestion that November election could be delayed; reaction and analysis from the 'Special Report' All-Stars.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T11:11:00.0000000Z"
+    },
+    {
+      "name": "With a new year starting, teacher unions and districts still fighting over crucial details ",
+      "url": "https://www.sfchronicle.com/education/article/With-a-new-year-starting-teacher-unions-and-15447707.php",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.F916757D9928A471C90EB209C766FA8E&pid=News",
+          "width": 2048,
+          "height": 1365
+        },
+        "isLicensed": false
+      },
+      "description": "What the school day looks like for California’s 6 million students will depend on what comes out of largely secret labor talks between unions and district officials.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "San Francisco Chronicle",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_5f927070eb8a34949ebf620cbff28aa2"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T11:06:00.0000000Z"
+    },
+    {
+      "name": "Texas Rep Remembers Herman Cain, Who Died From COVID-19 Complications ",
+      "url": "https://news.yahoo.com/texas-rep-remembers-herman-cain-222000068.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.1CC76CACFB978EC5A0338A56ABFD165D&pid=News",
+          "width": 1920,
+          "height": 1080
+        },
+        "isLicensed": false
+      },
+      "description": "Texas state Rep. James White talks about the legacy of former GOP presidential candidate Herman Cain. Our goal is to create a safe and engaging place for users to connect over interests and passions.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T10:20:00.0000000Z"
+    },
+    {
+      "name": "Ghislaine Maxwell-Jeffrey Epstein emails revealed in new court papers ",
+      "url": "https://news.yahoo.com/ghislaine-maxwell-jeffrey-epstein-emails-093735799.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.54A8F841E14D1D5638A517343E7E4511&pid=News",
+          "width": 976,
+          "height": 549
+        },
+        "isLicensed": false
+      },
+      "description": "Emails between UK socialite Ghislaine Maxwell and the late US sex offender Jeffrey Epstein have been revealed in a trove of unsealed court documents. Epstein tells Ms Maxwell she has done \"nothing",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T09:49:00.0000000Z"
+    },
+    {
+      "name": "Electionland 2020: Accessibility Lawsuits, Mail Voting Expansion, USPS Woes and More ",
+      "url": "https://www.propublica.org/article/electionland-2020-accessibility-lawsuits-mail-voting-expansion-usps-woes-and-more",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.219AB06CCFDBA835E389F93BC9AF74BF&pid=News",
+          "width": 400,
+          "height": 267
+        },
+        "isLicensed": false
+      },
+      "description": "This week’s headlines on doctors getting out the vote, cybersecurity concerns, and Trump’s tweets on vote by mail.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "ProPublica",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_571f07c320dce8b3e60cc03ba5f09e0b"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T11:37:00.0000000Z"
+    },
+    {
+      "name": "US election 2020: Obama calls for end to voter suppression ",
+      "url": "https://news.yahoo.com/us-election-2020-obama-calls-214827943.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.05104CFC10E42F5B570FA6E0DB33ED2C&pid=News",
+          "width": 976,
+          "height": 549
+        },
+        "isLicensed": false
+      },
+      "description": "Former US President Barack Obama has sharply criticised what he described as Republican attempts at voter suppression in a speech at civil rights leader John Lewis's funeral. He said people in power",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T09:48:00.0000000Z"
+    },
+    {
+      "name": "The Hill's Morning Report - Presented by Facebook - At loggerheads, Congress, White House to let jobless payout lapse ",
+      "url": "https://www.msn.com/en-us/news/politics/the-hills-morning-report-presented-by-facebook-at-loggerheads-congress-white-house-to-let-jobless-payout-lapse/ar-BB17pxlT?li=BBnb7Kz",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.F04ABE83BB8C292565044A8B60216F48&pid=News",
+          "width": 600,
+          "height": 315
+        },
+        "isLicensed": false
+      },
+      "description": "Presented by Facebook Welcome to The Hill's Morning Report. Thankfully, you made it to Friday (and the end of a tough July). We get you up to speed on the most important developments in politics and",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "The Hill on MSN.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "http://www.bing.com/th?id=AR_fbfe507a57f598418fd179b0dec78111"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T10:54:00.0000000Z"
+    }
+  ]
+}

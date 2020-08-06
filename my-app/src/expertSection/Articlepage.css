@@ -1,0 +1,19 @@
+.ArticleContainer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.ArticleContainer2 {
+    display: flex;
+    justify-content: space-between;
+
+}
+.width-30 {
+    width: 30%;
+}
+
+.container {
+    width: 80%;
+    margin : auto
+}

@@ -1,0 +1,311 @@
+{
+  "_type": "News",
+  "webSearchUrl": "https://www.bing.com/news/search?q=health+news&form=TNSA02",
+  "value": [
+    {
+      "name": "Live updates - Senior Trump aide Brett Giroir: U.S. 'cannot test our way out' of coronavirus pandemic",
+      "url": "https://www.msn.com/en-us/news/us/live-updates-rep-jordan-presses-dr-fauci-on-role-of-protests-in-coronavirus-surge/ar-BB17pMaq",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.0009388392B9321B7AAB60C66EBD1FFF&pid=News",
+          "width": 600,
+          "height": 315
+        }
+      },
+      "description": "Top coronavirus advisers Dr. Anthony Fauci, Dr. Robert Redfield and Adm. Brett Giroir, are testifying before a House panel on the coronavirus response. Refresh here for live updates: Jordan presses Fauci on coronavirus transmission from protests              Rep.",
+      "about": [
+        {
+          "readLink": "https://binglatestnews.cognitiveservices.azure.com/api/v7/entities/1a466af2-ed23-25bd-794d-1ca925e4681b",
+          "name": "Donald Trump"
+        },
+        {
+          "readLink": "https://binglatestnews.cognitiveservices.azure.com/api/v7/entities/6dc7e807-184a-a154-c9aa-01a02d3296a6",
+          "name": "Brett Giroir"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Donald Trump"
+        },
+        {
+          "name": "Brett Giroir"
+        },
+        {
+          "name": "United States"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "USA TODAY on MSN.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1f4ddfe292e1858eda89344172946a9&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T15:02:59.0000000Z",
+      "category": "Health"
+    },
+    {
+      "name": "Early coronavirus drug trials tested vaccines mostly on White people; next phase aims for diversity",
+      "url": "https://www.cnbc.com/2020/07/31/early-coronavirus-drug-trials-tested-vaccines-mostly-on-white-people-next-phase-aims-for-diversity.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.9A8B468A05EBFCA561394B83906CDD39&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "The first large-scale efficacy trials of potential Covid-19 vaccines began Monday in the U.S. A key priority is recruiting participants of diverse backgrounds. It may be a challenge.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "CNBC",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_4efc5b36002beed4d9e08a53512d7e9e&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T14:54:00.0000000Z",
+      "category": "Health",
+      "ampUrl": "https://www.cnbc.com/amp/2020/07/31/early-coronavirus-drug-trials-tested-vaccines-mostly-on-white-people-next-phase-aims-for-diversity.html"
+    },
+    {
+      "name": "Florida sets another coronavirus death record with 257 reported fatalities",
+      "url": "https://www.chicagotribune.com/nation-world/os-ne-florida-coronavirus-friday-july-31-20200731-4st6kelionfr7lhz7qgyyxxmau-story.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.C8164ECAD00FF7EA3FB5E2EC6F882F5E&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Four days has seen for morbid records as the Florida Department of Health reported another 257 coronavirus fatalities to bring the state death toll for its residents to 6,843.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Chicago Tribune",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_1a394543d55bdec61d7b3d912e808886&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T14:57:00.0000000Z",
+      "category": "Health",
+      "ampUrl": "https://www.chicagotribune.com/nation-world/os-ne-florida-coronavirus-friday-july-31-20200731-4st6kelionfr7lhz7qgyyxxmau-story.html?outputType=amp"
+    },
+    {
+      "name": "Houston coronavirus updates: What you need to know for July 31",
+      "url": "https://www.chron.com/coronavirus/article/Houston-coronavirus-updates-What-you-need-to-15448595.php",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.DF5E3D21D2FA147EF5582E9B365C85FF&pid=News",
+          "width": 700,
+          "height": 515
+        }
+      },
+      "description": "Chron.com is following the latest headlines on the COVID-19 pandemic and its effects on the Houston area. 9 a.m.: The latest Houston, Texas numbers . The Houston region has surpas",
+      "about": [
+        {
+          "readLink": "https://binglatestnews.cognitiveservices.azure.com/api/v7/entities/ad99c262-d92e-4e88-87f7-5c66752fec36",
+          "name": "Houston"
+        }
+      ],
+      "mentions": [
+        {
+          "name": "Houston"
+        },
+        {
+          "name": "Houston Chronicle"
+        },
+        {
+          "name": "French Consulate"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Houston Chronicle",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_498b7ec640fbc692daf9710f9dda1ae0&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T14:38:00.0000000Z",
+      "category": "Health",
+      "ampUrl": "https://www.chron.com/coronavirus/amp/Houston-coronavirus-updates-What-you-need-to-15448595.php"
+    },
+    {
+      "name": "Boris Johnson Postpones Plans to Ease Lockdown Restrictions in England",
+      "url": "https://www.medscape.com/viewarticle/934948",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.F573B4FA621F8E4F18273BA1067A7671&pid=News",
+          "width": 700,
+          "height": 393
+        }
+      },
+      "description": "Government's chief medical adviser says we may have 'reached the limits' of what can be done to reopen society.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Medscape",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_fbb82da4c8e47e719997e1630c05befb&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T14:57:00.0000000Z",
+      "category": "Health"
+    },
+    {
+      "name": "Fauci 'cautiously optimistic' for COVID-19 vaccine in late fall or winter",
+      "url": "https://www.upi.com/Top_News/US/2020/07/31/Fauci-cautiously-optimistic-for-COVID-19-vaccine-in-late-fall-or-winter/5501596190254/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.999A422F3EC1A14E4EB662D06E2738AC&pid=News",
+          "width": 700,
+          "height": 465
+        }
+      },
+      "description": "Dr. Anthony Fauci, the United States' top expert on infectious diseases, expressed \"cautious\" optimism in Congress Friday that a safe and effective vaccine against COVID-19 will available this fall or early winter.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "UPI.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_d88c5b6fb27b317026ee10242444fb8b&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T14:48:00.0000000Z",
+      "category": "Health",
+      "ampUrl": "https://www.upi.com/amp/Top_News/US/2020/07/31/Fauci-cautiously-optimistic-for-COVID-19-vaccine-in-late-fall-or-winter/5501596190254/"
+    },
+    {
+      "name": "Why Black women are more likely to have fibroids than any other race group",
+      "url": "https://www.msn.com/en-us/health/medical/why-black-women-are-more-likely-to-have-fibroids-than-any-other-race-group/ar-BB17pRWY",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.872672BDB25041705778766D4C556C23&pid=News",
+          "width": 600,
+          "height": 315
+        }
+      },
+      "description": "Stephanie Odili knew something was wrong when her stomach ballooned to three times its usual size. \"It was like I was four months pregnant,\" the 23-year-old told CNN. It would be the start of a long and painful battle with fibroids.",
+      "mentions": [
+        {
+          "name": "BKSH & Associates Worldwide"
+        },
+        {
+          "name": "Health"
+        },
+        {
+          "name": "Chipotle"
+        }
+      ],
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "CNN on MSN.com",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_34c0b98797bce395c518158cf055747c&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T14:50:05.0000000Z",
+      "category": "Health"
+    },
+    {
+      "name": "Impact of coronavirus will be felt for decades to come, WHO says",
+      "url": "https://news.yahoo.com/coronavirius-impact-felt-far-future-141358525.html",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.03A137ABEFC6D7B5B765C8D4662C8377&pid=News",
+          "width": 700,
+          "height": 466
+        }
+      },
+      "description": "The global coronavirus outbreak is the sort of disaster whose effects will last far into the future, World Health Organization Director General Tedros Adhanom Ghebreyesus said on Friday. \"The pandemic is a once-in-a-century health crisis,",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "YAHOO!",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_e1eef5681737e5676d7a09990b13411a&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T14:46:00.0000000Z",
+      "category": "Health",
+      "ampUrl": "https://news.yahoo.com/amphtml/coronavirius-impact-felt-far-future-141358525.html"
+    },
+    {
+      "name": "Pandemic underscores how public parks shape public health",
+      "url": "https://www.washingtonpost.com/business/2020/07/31/public-parks-health-coronavirus/",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.0AE05DBE1E017D663FCC13A627E9C599&pid=News",
+          "width": 700,
+          "height": 618
+        }
+      },
+      "description": "Those recommendations have taken on a new urgency this year as the nation grapples with a pandemic that seems to be especially virulent in crowded indoor spaces. The Centers for Disease Control and Prevention now lists visiting parks and recreational facilities — particularly those “parks that are close to your home” — as a way to protect yourself and others from covid-19.",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Washington Post",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_04bc0c1c424cf64dec14a2982f0360ef&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T13:53:00.0000000Z",
+      "category": "Health",
+      "ampUrl": "https://www.washingtonpost.com/business/2020/07/31/public-parks-health-coronavirus/?outputType=amp"
+    },
+    {
+      "name": "Mismatch repair phenotype determines the implications of tumor grade and CDX2 expression in stage II–III colon cancer",
+      "url": "https://www.nature.com/articles/s41379-020-0634-9",
+      "image": {
+        "thumbnail": {
+          "contentUrl": "https://www.bing.com/th?id=ON.061A9C0CEC993726761EE9E72A56B501&pid=News",
+          "width": 306,
+          "height": 312
+        }
+      },
+      "description": "Mismatch repair (MMR) deficiency is an indicator of good prognosis in localized colon cancer but also associated with lack of expression of caudal-type homeobox transcription fact",
+      "provider": [
+        {
+          "_type": "Organization",
+          "name": "Nature",
+          "image": {
+            "thumbnail": {
+              "contentUrl": "https://www.bing.com/th?id=AR_1bbb0b9e9b2e4ed325d7a7268cfcfb94&pid=news"
+            }
+          }
+        }
+      ],
+      "datePublished": "2020-07-31T12:28:00.0000000Z",
+      "category": "Health"
+    }
+  ]
+}

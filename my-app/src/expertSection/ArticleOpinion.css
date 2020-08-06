@@ -1,0 +1,47 @@
+
+* {
+    box-sizing: border-box;
+}
+
+.ArticleOpinionBox {
+    display: flex;
+    background-color: grey;
+    padding: 10px;
+    width: 700px;
+    border-radius: 30px
+}
+
+.ArticleOpinionBox > div {
+    background-color: white;
+    height: 330px;
+    border-radius: 20px
+    
+}
+
+.d-flex {
+    display: flex;
+    align-items: center;
+    padding: 7px;
+}
+.margin-1 {
+    margin: 1px;
+    margin-bottom: 5px
+}
+
+.bg-green{
+    background-color: lightgreen;
+    border-radius: 5px;
+}
+
+.circle {
+    border-radius: 15px;
+    width: 57px;
+    background-color:pink;
+    height: 45px;
+    margin-right: 10px;
+}
+
+.opinionText {
+    padding: 0 15px;
+}
+

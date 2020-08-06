@@ -1,0 +1,599 @@
+{
+  "SentimentAnalysis": [
+    {
+      "id": 26,
+      "sentiment": "neutral",
+      "votingResults": {
+        "yesVotes": 65,
+        "noVotes": 30
+      },
+      "confidenceScores": {
+        "positive": 0.01,
+        "neutral": 0.95,
+        "negative": 0.04
+      },
+      "sentences": [
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+          },
+          "offset": 0,
+          "length": 106
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+          },
+          "offset": 114,
+          "length": 115
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.99,
+            "negative": 0.0
+          },
+          "offset": 241,
+          "length": 96
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.96,
+            "negative": 0.04
+          },
+          "offset": 349,
+          "length": 132
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.97,
+            "negative": 0.03
+          },
+          "offset": 482,
+          "length": 72
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.97,
+            "negative": 0.02
+          },
+          "offset": 566,
+          "length": 53
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.96,
+            "negative": 0.03
+          },
+          "offset": 620,
+          "length": 146
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.77,
+            "negative": 0.21
+          },
+          "offset": 767,
+          "length": 182
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 39,
+        "noVotes": 19
+      },
+      "confidenceScores": {
+        "positive": 0.25,
+        "neutral": 0.09,
+        "negative": 0.66
+      },
+      "sentences": [
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.63,
+            "neutral": 0.07,
+            "negative": 0.3
+          },
+          "offset": 0,
+          "length": 171
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.02,
+            "negative": 0.98
+          },
+          "offset": 172,
+          "length": 22
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.76,
+            "neutral": 0.22,
+            "negative": 0.02
+          },
+          "offset": 195,
+          "length": 91
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.28,
+            "neutral": 0.32,
+            "negative": 0.4
+          },
+          "offset": 287,
+          "length": 165
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.02,
+            "negative": 0.98
+          },
+          "offset": 453,
+          "length": 82
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.01,
+            "negative": 0.98
+          },
+          "offset": 536,
+          "length": 239
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.09,
+            "neutral": 0.9,
+            "negative": 0.01
+          },
+          "offset": 776,
+          "length": 51
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 828,
+          "length": 91
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.77,
+            "neutral": 0.08,
+            "negative": 0.15
+          },
+          "offset": 920,
+          "length": 182
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.06,
+            "neutral": 0.12,
+            "negative": 0.82
+          },
+          "offset": 1103,
+          "length": 93
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.05,
+            "neutral": 0.01,
+            "negative": 0.94
+          },
+          "offset": 1197,
+          "length": 257
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 15,
+        "noVotes": 20
+      },
+      "confidenceScores": {
+        "positive": 0.15,
+        "neutral": 0.14,
+        "negative": 0.71
+      },
+      "sentences": [
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.0,
+            "negative": 1.0
+          },
+          "offset": 0,
+          "length": 124
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.04,
+            "neutral": 0.72,
+            "negative": 0.24
+          },
+          "offset": 125,
+          "length": 193
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.05,
+            "neutral": 0.12,
+            "negative": 0.83
+          },
+          "offset": 319,
+          "length": 129
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.98,
+            "negative": 0.01
+          },
+          "offset": 449,
+          "length": 52
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.01,
+            "negative": 0.97
+          },
+          "offset": 502,
+          "length": 184
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.97,
+            "negative": 0.03
+          },
+          "offset": 687,
+          "length": 166
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.5,
+            "neutral": 0.46,
+            "negative": 0.04
+          },
+          "offset": 854,
+          "length": 163
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.07,
+            "neutral": 0.87,
+            "negative": 0.06
+          },
+          "offset": 1018,
+          "length": 154
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.95,
+            "negative": 0.03
+          },
+          "offset": 1173,
+          "length": 107
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.96,
+            "negative": 0.03
+          },
+          "offset": 1281,
+          "length": 53
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.99,
+            "negative": 0.01
+          },
+          "offset": 1335,
+          "length": 119
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "sentiment": "mixed",
+      "votingResults": {
+        "yesVotes": 55,
+        "noVotes": 60
+      },
+      "confidenceScores": {
+        "positive": 0.35,
+        "neutral": 0.19,
+        "negative": 0.46
+      },
+      "sentences": [
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.97,
+            "negative": 0.02
+          },
+          "offset": 0,
+          "length": 42
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.97,
+            "negative": 0.02
+          },
+          "offset": 43,
+          "length": 50
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.91,
+            "neutral": 0.05,
+            "negative": 0.04
+          },
+          "offset": 101,
+          "length": 99
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.08,
+            "neutral": 0.84,
+            "negative": 0.08
+          },
+          "offset": 212,
+          "length": 181
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.97,
+            "neutral": 0.02,
+            "negative": 0.01
+          },
+          "offset": 404,
+          "length": 83
+        },
+        {
+          "sentiment": "positive",
+          "confidenceScores": {
+            "positive": 0.57,
+            "neutral": 0.32,
+            "negative": 0.11
+          },
+          "offset": 488,
+          "length": 112
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.48,
+            "negative": 0.52
+          },
+          "offset": 601,
+          "length": 61
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 674,
+          "length": 134
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.01,
+            "negative": 0.99
+          },
+          "offset": 820,
+          "length": 149
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.44,
+            "negative": 0.54
+          },
+          "offset": 970,
+          "length": 47
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "sentiment": "negative",
+      "votingResults": {
+        "yesVotes": 50,
+        "noVotes": 45
+      },
+      "confidenceScores": {
+        "positive": 0.01,
+        "neutral": 0.11,
+        "negative": 0.88
+      },
+      "sentences": [
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.03,
+            "neutral": 0.59,
+            "negative": 0.38
+          },
+          "offset": 0,
+          "length": 72
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 1.0,
+            "negative": 0.0
+          },
+          "offset": 80,
+          "length": 77
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.91,
+            "negative": 0.07
+          },
+          "offset": 169,
+          "length": 147
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.04,
+            "neutral": 0.92,
+            "negative": 0.04
+          },
+          "offset": 328,
+          "length": 132
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.97,
+            "negative": 0.02
+          },
+          "offset": 461,
+          "length": 63
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.98,
+            "negative": 0.02
+          },
+          "offset": 536,
+          "length": 110
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.92,
+            "negative": 0.07
+          },
+          "offset": 658,
+          "length": 32
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.87,
+            "negative": 0.12
+          },
+          "offset": 691,
+          "length": 116
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.02,
+            "neutral": 0.5,
+            "negative": 0.48
+          },
+          "offset": 808,
+          "length": 56
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.0,
+            "neutral": 0.06,
+            "negative": 0.94
+          },
+          "offset": 865,
+          "length": 120
+        },
+        {
+          "sentiment": "negative",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.16,
+            "negative": 0.83
+          },
+          "offset": 997,
+          "length": 106
+        },
+        {
+          "sentiment": "neutral",
+          "confidenceScores": {
+            "positive": 0.01,
+            "neutral": 0.99,
+            "negative": 0.0
+          },
+          "offset": 1104,
+          "length": 130
+        }
+      ]
+    }
+  ]
+}
